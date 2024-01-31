@@ -1,22 +1,45 @@
-<h1 align="center">Hi 👋, I'm Bagas Meganata</h1>
-<h3 align="center">Right now i'm focusing on developing my skills on Web 2.0 especially in Frontend Development. I was interesting at building DApps that implement using Blockchain Technology.</h3>
+## Hey there 👋, I'm [Bagas!](https://github.com/natabagass/)
 
-- 🌱 I’m currently learning **Blockchain, Nest Js, Flutter**
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/natabagass)
 
-- 👨‍💻 All of my projects are available at [https://bagasmeganata.vercel.app/](https://bagasmeganata.vercel.app/)
+### Welcome to my profile!
 
-- 💬 Ask me about **Next Js, Flutter**
+I am a junior Frontend Developer currently at Cashplus.id based on Indonesia. 🌟
 
-- 📫 How to reach me **meganatabagas@gmail.com**
+Right now I'm third year undergraduate student at University of Brawijaya. I have intereset and pasionate about Frontend and Backend Development especially using Next Js for Frontend and Nest Js for Backend. I have an interest too at Blockchain Development and implement it to build Web 3.0 in the future.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/natabagass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/natabagass" height="30" width="40" /></a>
-</p>
+- 🛠 &nbsp; I’m currently working with JS, TS, etc.
+- 🚀 &nbsp; I’m currently exploring Dart, Flutter, Solidity, etc.
+- 📫 &nbsp; Reach me out: meganatabagas@gmail.com.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### My Absolute Favorites:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natabagass&show_icons=true&locale=en&layout=compact" alt="natabagass" /></p>
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading about tech whenever possible.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natabagass&show_icons=true&locale=en" alt="natabagass" /></p>
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natabagass&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natabagass&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=natabagass&hide_border=true" />
+</details>
