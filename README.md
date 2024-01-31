@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bagas Meganata</h1>
 <h3 align="center">Right now i'm focusing on developing my skills on Web 2.0 especially in Frontend Development. I was interesting at building DApps that implement using Blockchain Technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natabagass" alt="natabagass" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain, Nest Js, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://bagasmeganata.vercel.app/](https://bagasmeganata.vercel.app/)
