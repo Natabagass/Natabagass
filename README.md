@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/natabagass)
 
-### Welcome to my profile!
+### Welcome to My Profile!
 
 I am a junior Frontend Developer currently at Cashplus.id based on Indonesia. 🌟
 
