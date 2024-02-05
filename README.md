@@ -18,6 +18,7 @@ Right now I'm third year undergraduate student at University of Brawijaya. I hav
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading about tech whenever possible.
+- 🎮 &nbsp; Doing some gaming things.
 
 ### Languages and Tools:
 
