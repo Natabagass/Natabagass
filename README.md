@@ -12,7 +12,7 @@ Right now I'm third year undergraduate student at University of Brawijaya. I hav
 
 - 🛠 &nbsp; I’m currently working with JS, TS, etc.
 - 🚀 &nbsp; I’m currently exploring Dart, Flutter, Solidity, etc.
-- 🥸 &nbsp; You can now about my project and others at here https://bagasmeganata.vercel.app/
+- 🥸 &nbsp; You can know about my project and others at here https://bagasmeganata.vercel.app/
 
 ### My Absolute Favorites:
 
