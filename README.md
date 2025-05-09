@@ -6,7 +6,7 @@
 
 I am a <b><u>Junior Frontend Developer</u></b> currently at <u><b>[Indonesia Crypto Network](https://indonesiacrypto.network/)</b></u> based on Indonesia. 🌟
 
-Right now I'm third year undergraduate student at University of Brawijaya. I have intereset and pasionate about Frontend and Backend Development especially using Next Js for Frontend and Nest Js for Backend. I have an interest too at Blockchain Development and implement it to build Web 3.0 in the future.
+I'm a FG student at University of Brawijaya. I have intereset and pasionate about Frontend and Backend Development especially using Next Js for Frontend and Nest Js for Backend. I have an interest too at Blockchain Development and implement it to build Web 3.0 in the future.
 
 ### Talking about some Personal Stuff:
 
