@@ -4,7 +4,7 @@
 
 ### Welcome to My Profile!
 
-I'm a FG student at University of Brawijaya. I have intereset and pasionate about Frontend and Backend Development especially using Next Js for Frontend and Nest Js for Backend. I have an interest too at Blockchain Development and implement it to build Web 3.0 in the future.
+Frontend Enthusiast here 👋. I have intereset and pasionate about Backend Development too especially using Next Js for Frontend and Nest Js for Backend. I have an interest too at Blockchain Development and implement it to build Web 3.0 in the future.
 
 ### Talking about some Personal Stuff:
 
